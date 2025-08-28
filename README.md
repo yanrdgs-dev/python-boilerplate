@@ -42,7 +42,7 @@ A starting template for Python projects, built from scratch using uv package man
     black .
     ```
 
-- **Code quality (linting)**
+- **Code quality (linting):**
     ```bash
     flake8 .
     ```
