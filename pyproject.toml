@@ -1,0 +1,3 @@
+[tool.black]
+line-length = 88
+target-version = ['py38'] # This is the lowest Python version you'll support
