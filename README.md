@@ -15,7 +15,7 @@ A starting template for Python projects, built from scratch using uv package man
 2. **Create and activate the virtual environment:** 
     ```bash
     uv venv
-    source .venv/bin/activate # use `.venv\Scripts\activate on Windows.
+    source .venv/bin/activate # use .venv\Scripts\activate on Windows.
     ```
 
 3. **Install the dependencies:**
